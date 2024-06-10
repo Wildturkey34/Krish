@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../c language"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "stdio.h": "c"
+    },
+    "liveServer.settings.multiRootWorkspaceName": "html"
+  }
+}
